@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M0,30A30,30,0,1,1,30,60,30,30,0,0,1,0,30Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Image" clip-path="url(#clip-path)">
+    <text id="_" data-name="🎾" transform="translate(12.5 48.5)" fill="#ffcf5a" font-size="36" font-family="SegoeUIEmoji, Segoe UI Emoji"><tspan x="0" y="0">🎾</tspan></text>
+  </g>
+</svg>
